@@ -1,3 +1,8 @@
+import image1 from "../../../assets/img/image-1.jpg"
+import image2 from "../../../assets/img/image-2.jpg"
+import image3 from "../../../assets/img/image-3.jpg"
+import image4 from "../../../assets/img/image-4.jpg"
+
 const About = () => (
   <section
     className="u-align-center u-clearfix u-white u-section-1"
@@ -47,8 +52,7 @@ const About = () => (
               <div className="u-layout-col">
                 <div
                   className="u-align-left u-container-style u-image u-image-round u-layout-cell u-radius-50 u-size-60 u-image-1"
-                  data-image-width="1200"
-                  data-image-height="1257"
+                  style={{ backgroundImage: `url(${image1.src})` }}
                 >
                   <div className="u-container-layout u-container-layout-1" />
                 </div>
@@ -58,8 +62,7 @@ const About = () => (
               <div className="u-layout-col">
                 <div
                   className="u-align-left u-container-style u-image u-image-round u-layout-cell u-radius-50 u-size-60 u-image-2"
-                  data-image-width="700"
-                  data-image-height="679"
+                  style={{ backgroundImage: `url(${image2.src})` }}
                 >
                   <div className="u-container-layout u-container-layout-2" />
                 </div>
@@ -69,15 +72,13 @@ const About = () => (
               <div className="u-layout-col">
                 <div
                   className="u-align-left u-container-style u-image u-image-round u-layout-cell u-radius-50 u-size-30 u-image-3"
-                  data-image-width="1200"
-                  data-image-height="800"
+                  style={{ backgroundImage: `url(${image3.src})` }}
                 >
                   <div className="u-container-layout u-container-layout-3" />
                 </div>
                 <div
                   className="u-align-left u-container-style u-image u-image-round u-layout-cell u-radius-50 u-size-30 u-image-4"
-                  data-image-width="626"
-                  data-image-height="469"
+                  style={{ backgroundImage: `url(${image4.src})` }}
                 >
                   <div className="u-container-layout u-container-layout-4" />
                 </div>
