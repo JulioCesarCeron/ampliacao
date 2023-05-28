@@ -1,3 +1,5 @@
-export default function Page() {
-  return <h1>Home</h1>
+import Header from "../components/header"
+
+export default function Page(): JSX.Element {
+  return <Header />
 }
