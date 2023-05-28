@@ -62,11 +62,7 @@ const Team = () => (
             <div className="u-repeater u-repeater-1">
               <div className="u-align-center u-container-style u-list-item u-repeater-item">
                 <div className="u-container-layout u-similar-container u-valign-top u-container-layout-1">
-                  <div
-                    className="u-image u-image-circle u-image-1"
-                    data-image-width="1280"
-                    data-image-height="774"
-                  />
+                  <div className="u-image u-image-circle u-image-1" />
                   <h4 className="u-align-center u-text u-text-default u-text-1">
                     Jeffrey Brown
                   </h4>
@@ -165,12 +161,7 @@ const Team = () => (
               </div>
               <div className="u-align-center u-container-style u-list-item u-repeater-item">
                 <div className="u-container-layout u-similar-container u-valign-top u-container-layout-2">
-                  <div
-                    alt=""
-                    className="u-image u-image-circle u-image-2"
-                    data-image-width="1280"
-                    data-image-height="774"
-                  ></div>
+                  <div className="u-image u-image-circle u-image-2" />
                   <h4 className="u-align-center u-text u-text-default u-text-4">
                     Ann Richmond
                   </h4>
@@ -269,12 +260,7 @@ const Team = () => (
               </div>
               <div className="u-align-center u-container-style u-list-item u-repeater-item">
                 <div className="u-container-layout u-similar-container u-valign-top u-container-layout-3">
-                  <div
-                    alt=""
-                    className="u-image u-image-circle u-image-3"
-                    data-image-width="1280"
-                    data-image-height="774"
-                  ></div>
+                  <div className="u-image u-image-circle u-image-3" />
                   <h4 className="u-align-center u-text u-text-default u-text-7">
                     Alex Greenfield
                   </h4>
@@ -427,12 +413,7 @@ const Team = () => (
             <div className="u-repeater u-repeater-1">
               <div className="u-align-center u-container-style u-list-item u-repeater-item">
                 <div className="u-container-layout u-similar-container u-valign-top u-container-layout-1">
-                  <div
-                    alt=""
-                    className="u-image u-image-circle u-image-1"
-                    data-image-width="1280"
-                    data-image-height="774"
-                  ></div>
+                  <div className="u-image u-image-circle u-image-1" />
                   <h4 className="u-align-center u-text u-text-default u-text-1">
                     Jeffrey Brown
                   </h4>
@@ -531,12 +512,7 @@ const Team = () => (
               </div>
               <div className="u-align-center u-container-style u-list-item u-repeater-item">
                 <div className="u-container-layout u-similar-container u-valign-top u-container-layout-2">
-                  <div
-                    alt=""
-                    className="u-image u-image-circle u-image-2"
-                    data-image-width="1280"
-                    data-image-height="774"
-                  ></div>
+                  <div className="u-image u-image-circle u-image-2" />
                   <h4 className="u-align-center u-text u-text-default u-text-4">
                     Ann Richmond
                   </h4>
@@ -635,12 +611,7 @@ const Team = () => (
               </div>
               <div className="u-align-center u-container-style u-list-item u-repeater-item">
                 <div className="u-container-layout u-similar-container u-valign-top u-container-layout-3">
-                  <div
-                    alt=""
-                    className="u-image u-image-circle u-image-3"
-                    data-image-width="1280"
-                    data-image-height="774"
-                  ></div>
+                  <div className="u-image u-image-circle u-image-3" />
                   <h4 className="u-align-center u-text u-text-default u-text-7">
                     Alex Greenfield
                   </h4>
